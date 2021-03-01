@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <emails>
+        <email>test@test.net</email>
+    </emails>
+    <resources>
+        <url>http://test.com/new-xml</url>
+    </resources>
+</dataset>
